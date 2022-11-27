@@ -1,6 +1,6 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
+	"ip":"MIXICRAFT1.aternos.me",
+	"port": 42963,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
